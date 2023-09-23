@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Github\CopyCat\Project19\Source.cpp(53): warning C4715: copycat<AM,PM>: значение возвращается не при всех путях выполнения
+  Project19.vcxproj -> E:\Github\CopyCat\x64\Debug\Project19.exe
